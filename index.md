@@ -2,8 +2,6 @@
 layout: default
 ---
 
----
-
 ### [twitter](https://twitter.com) |  [cnn](http://cnn.com) | [av club](http://avclub.com) | [slate](http://slate.com) | [reddit](http://reddit.com)
 
 ### [wired](http://wired.com) | [gizmodo](http://gizmodo.com) | [ars technica](http://arstechnica.com) | [ onion](http://theonion.com)
