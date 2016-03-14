@@ -12,7 +12,7 @@ layout: default
 
 ### [afrodiary](http://afrodiary.com) | [prosebox](http://prosebox.com)
 
-### [soundcloud](https://soundcloud.com/gravityfreesummer) | [bandcamp](https://gravityfreesummer.bandcamp.com/)
+### [soundcloud](https://soundcloud.com/gravityfreesummer) | [bandcamp](https://gravityfreesummer.bandcamp.com/) | [moonside](http://moonside.gravityfreesummer.com) 
 
 ### [bank](https://1stnb.com)
 
