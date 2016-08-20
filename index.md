@@ -3,16 +3,16 @@ layout: default
 ---
 ![](../images/link.gif)
 
-### [cnn](http://cnn.com) | [av club](http://avclub.com) | [slate](http://slate.com) | [reddit](http://reddit.com) | [onion](http://theonion.com)
+### [cnn](http://cnn.com) | [av club](http://avclub.com) | [slate](http://slate.com) | [reddit](http://reddit.com) | [twitter](https://twitter.com)
 
-### [wired](http://wired.com) | [gizmodo](http://gizmodo.com) | [ars technica](http://arstechnica.com) | [lifehacker](http://lifehacker.com/)
+### [wired](http://wired.com) | [gizmodo](http://gizmodo.com) | [ars technica](http://arstechnica.com)  | [kotaku](http://kotaku.com/)
 
-### [dallas morning news](http://dallasnews.com) | [victoria advocate](http://victoriaadvocate.com)
+### [engadget](https://www.engadget.com/) | [lifehacker](http://lifehacker.com/) | [torrent freak](https://torrentfreak.com/)
 
-### [pitchfork](http://pitchfork.com) | [consequence of sound](http://consequenceofsound.com)
+### [coin desk](http://www.coindesk.com/) | [pi blog](https://www.raspberrypi.org/blog/) | [retro gamer](http://www.retrogamer.net/) | [hackaday](https://hackaday.com/)
 
-### [twitter](https://twitter.com) | [prosebox](http://prosebox.com) | [afrodiary](http://afrodiary.com)
+### [guardian](https://www.theguardian.com/us) | [dallas news](http://dallasnews.com) | [victoria advocate](http://victoriaadvocate.com)
+
+### [igloo](http://igloomag.com/) | [consequence of sound](http://consequenceofsound.com) | [tiny mix tapes](http://www.tinymixtapes.com/)
 
 ### [soundcloud](https://soundcloud.com/gravityfreesummer) | [bandcamp](https://gravityfreesummer.bandcamp.com/) | [moonside](http://moonside.gravityfreesummer.com)
-
-### [bank](https://1stnb.com) | [plex](http://app.plex.tv/web/app)
